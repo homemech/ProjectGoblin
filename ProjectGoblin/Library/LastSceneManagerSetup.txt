@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_ProjectGoblin_InfinityPBRTutorial/Scenes/ProjectGoblin_Tutorial01_ScriptableObjectEvents.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
